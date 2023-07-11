@@ -40,6 +40,9 @@ end
 
 save('transforms.mat', 'storeTform')
 
+
+
+
 % figure;
 % %pcshowpair(moving,fixed,'MarkerSize',50)
 % % figure;
